@@ -17,7 +17,7 @@ const cricketers = require('cricketers');
 cricketers.all;
 //=> ['Mahendra Singh Dhoni', 'Rohit Sharma', …]
 
-superheroes.random();
+cricketers.random();
 //=> 'Virat Kohli'
 ```
 ## API
